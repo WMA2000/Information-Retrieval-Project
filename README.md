@@ -36,30 +36,4 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-## Key Elements of the README:
-
-1. **Visual Badges**: Shows technology stack and project status at a glance
-2. **Clear Features**: Highlights the hybrid search capabilities
-3. **Architecture Diagram**: Visual explanation of the system flow
-4. **Installation Guide**: Step-by-step setup instructions
-5. **Usage Examples**: Shows both code and expected output
-6. **Project Structure**: Helps contributors navigate the codebase
-7. **Live Demo Link**: Direct Colab integration
-8. **Contribution Guidelines**: Encourages community involvement
-9. **License Information**: Clear terms of use
-
-## Additional Recommendations:
-
-1. **Add sample data**: Include a small sample corpus (5-10 documents) in the `/data` folder
-2. **Create documentation**: Add a `/docs` folder with:
-   - API documentation
-   - Configuration options
-   - Performance benchmarks
-3. **Add tests**: Include unit tests in a `/tests` folder
-4. **Set up CI/CD**: Add GitHub Actions for automated testing
-5. **Create wiki**: Expand documentation with use cases and advanced configurations
-
-This setup will make your project professional, accessible, and easy to maintain while showcasing your information retrieval expertise.
+This project is licensed under the MIT License
